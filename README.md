@@ -32,4 +32,5 @@ Link https://hardcore-poincare-713927.netlify.com
 
 ### Contributor 
 https://github.com/rizkigumilar <br>
-https://github.com/Arizal-Arkan
+https://github.com/Arizal-Arkan <br>
+https://github.com/adityaalifn
